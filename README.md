@@ -1,5 +1,5 @@
 # picon
-PICON FOR SKIN OPENPLUSHD
+PICON FOR OPENPLUSHD
 ----------------------------
 Colocar preview formato PNG
 Fondo transparente
